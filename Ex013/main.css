@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(210, 239, 247);
+}
+h1{
+    color: rgb(0, 4, 245);
+    font-family: arial;
+}
+h2{
+    color: rgb(6, 116, 21);
+}
+p{
+    margin: 15px;
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+}
+iframe{
+    margin: 15px;
+}

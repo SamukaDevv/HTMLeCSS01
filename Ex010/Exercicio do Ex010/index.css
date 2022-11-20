@@ -1,0 +1,24 @@
+img{
+    border-radius: 30px;
+    width: 100px;
+    right: 100px;
+
+}
+body{
+    width: 500px;
+    right: 500px;
+    
+}
+p{
+    text-align: left;
+}
+button,a{
+    
+        border-radius: 50px;
+        background-color: rgb(137, 137, 187);
+   
+}
+table{
+    border-color: brown;
+    
+}
